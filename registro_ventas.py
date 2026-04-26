@@ -58,3 +58,4 @@ def registrar_venta():
     finally:
         # Siempre se ejecuta, haya error o no
         print("Proceso de registro finalizado\n")
+        print("maira\n")
